@@ -1,0 +1,165 @@
+[
+    {
+      "id": 1,
+      "chef": "John Smith",
+      "chef_id": 1,
+      "recipeName": "Coq au Vin",
+      "ingredients": ["chicken thighs", "bacon", "mushrooms", "pearl onions", "red wine"],
+      "cookingMethod": "1. Cook bacon in a Dutch oven until crisp. Remove with a slotted spoon and set aside.\n2. Season chicken with salt and pepper and brown in the Dutch oven.\n3. Add mushrooms and onions and cook until softened.\n4. Pour in red wine and add bacon, thyme, and bay leaves. Cover and simmer for 1 hour.\n5. Serve hot.",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "chef": "John Smith",
+      "chef_id": 1,
+      "recipeName": "Salade Niçoise",
+      "ingredients": ["canned tuna", "hard-boiled eggs", "tomatoes", "green beans", "olives"],
+      "cookingMethod": "1. Cook green beans until tender-crisp. Drain and set aside.\n2. Arrange lettuce on plates and top with tuna, sliced eggs, tomatoes, green beans, and olives.\n3. Dress with vinaigrette and serve.",
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "chef": "John Smith",
+      "chef_id": 1,
+      "recipeName": "Ratatouille",
+      "ingredients": ["eggplant", "zucchini", "red bell pepper", "onion", "garlic"],
+      "cookingMethod": "1. Preheat oven to 375°F.\n2. Slice vegetables thinly and arrange in a baking dish.\n3. Drizzle with olive oil and sprinkle with salt and pepper.\n4. Bake for 45 minutes, or until vegetables are tender.\n5. Serve hot or cold.",
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "chef": "Maria Rodriguez",
+      "chef_id": 2,
+      "recipeName": "Quiche Lorraine",
+      "ingredients": ["pie crust", "bacon", "Swiss cheese", "heavy cream", "eggs"],
+      "cookingMethod": "1. Preheat oven to 375°F.\n2. Line a pie plate with the crust.\n3. Cook bacon until crisp, then crumble and sprinkle over the crust.\n4. Top with grated Swiss cheese.\n5. Beat together cream and eggs and pour over the cheese.\n6. Bake for 35-40 minutes, or until set.",
+      "rating": 4.4
+    },
+    {
+      "id": 5,
+      "chef": "Maria Rodriguez",
+      "chef_id": 2,
+      "recipeName": "Beef Bourguignon",
+      "ingredients": ["beef chuck roast", "carrots", "onion", "red wine", "beef broth"],
+      "cookingMethod": "1. Preheat oven to 325°F.\n2. Cut beef into 2-inch pieces and season with salt and pepper.\n3. Brown beef in a Dutch oven and set aside.\n4. Cook onions until softened and set aside.\n5. Deglaze the Dutch oven with red wine, scraping up any browned bits.\n6. Add beef broth, thyme, and bay leaves and bring to a simmer.\n7. Return beef and onions to the Dutch oven and bake for 2-3 hours, or until beef is tender.",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "chef": "Maria Rodriguez",
+      "chef_id": 2,
+      "recipeName": "French Onion Soup",
+      "ingredients": ["onions", "beef broth", "French bread", "butter", "olive oil"],
+      "cookingMethod": "1.Melt the butter with the olive oil in a large heavy-based pan. Add the onions and fry with the lid on for 10 mins until soft.\n2.Sprinkle in the sugar and cook for 20 mins more, stirring frequently, until caramelised. The onions should be really golden, full of flavour and soft when pinched between your fingers. Take care towards the end to ensure that they don’t burn.\n3.Sprinkle in the sugar and cook for 20 mins more, stirring frequently, until caramelised. The onions should be really golden, full of flavour and soft when pinched between your fingers. Take care towards the end to ensure that they don’t burn.",
+      "rating":4.1
+    },
+    {
+      "id": 7,
+      "chef": "David Lee",
+      "chef_id": 3,
+      "recipeName": "Coq au Vin",
+      "ingredients": ["chicken thighs", "bacon", "mushrooms", "pearl onions", "red wine"],
+      "cookingMethod": "1. Cook bacon in a Dutch oven until crisp. Remove with a slotted spoon and set aside.\n2. Season chicken with salt and pepper and brown in the Dutch oven.\n3. Add mushrooms and onions and cook until softened.\n4. Pour in red wine and add bacon, thyme, and bay leaves. Cover and simmer for 1 hour.\n5. Serve hot.",
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "chef": "David Lee",
+      "chef_id": 3,
+      "recipeName": "Salade Niçoise",
+      "ingredients": ["canned tuna", "hard-boiled eggs", "tomatoes", "green beans", "olives"],
+      "cookingMethod": "1. Cook green beans until tender-crisp. Drain and set aside.\n2. Arrange lettuce on plates and top with tuna, sliced eggs, tomatoes, green beans, and olives.\n3. Dress with vinaigrette and serve.",
+      "rating": 4.2
+    },
+    {
+      "id": 9,
+      "chef": "David Lee",
+      "chef_id": 3,
+      "recipeName": "Ratatouille",
+      "ingredients": ["eggplant", "zucchini", "red bell pepper", "onion", "garlic"],
+      "cookingMethod": "1. Preheat oven to 375°F.\n2. Slice vegetables thinly and arrange in a baking dish.\n3. Drizzle with olive oil and sprinkle with salt and pepper.\n4. Bake for 45 minutes, or until vegetables are tender.\n5. Serve hot or cold.",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "chef": "Emily Chen",
+      "chef_id": 4,
+      "recipeName": "Quiche Lorraine",
+      "ingredients": ["pie crust", "bacon", "Swiss cheese", "heavy cream", "eggs"],
+      "cookingMethod": "1. Preheat oven to 375°F.\n2. Line a pie plate with the crust.\n3. Cook bacon until crisp, then crumble and sprinkle over the crust.\n4. Top with grated Swiss cheese.\n5. Beat together cream and eggs and pour over the cheese.\n6. Bake for 35-40 minutes, or until set.",
+      "rating": 4.4
+    },
+    {
+      "id": 11,
+      "chef": "Emily Chen",
+      "chef_id": 4,
+      "recipeName": "Beef Bourguignon",
+      "ingredients": ["beef chuck roast", "carrots", "onion", "red wine", "beef broth"],
+      "cookingMethod": "1. Preheat oven to 325°F.\n2. Cut beef into 2-inch pieces and season with salt and pepper.\n3. Brown beef in a Dutch oven and set aside.\n4. Cook onions until softened and set aside.\n5. Deglaze the Dutch oven with red wine, scraping up any browned bits.\n6. Add beef broth, thyme, and bay leaves and bring to a simmer.\n7. Return beef and onions to the Dutch oven and bake for 2-3 hours, or until beef is tender.",
+      "rating": 4.6
+    },
+    {
+      "id": 12,
+      "chef": "Emily Chen",
+      "chef_id": 4,
+      "recipeName": "French Onion Soup",
+      "ingredients": ["onions", "beef broth", "French bread", "butter", "olive oil"],
+      "cookingMethod": "1.Melt the butter with the olive oil in a large heavy-based pan. Add the onions and fry with the lid on for 10 mins until soft.\n2.Sprinkle in the sugar and cook for 20 mins more, stirring frequently, until caramelised. The onions should be really golden, full of flavour and soft when pinched between your fingers. Take care towards the end to ensure that they don’t burn.\n3.Sprinkle in the sugar and cook for 20 mins more, stirring frequently, until caramelised. The onions should be really golden, full of flavour and soft when pinched between your fingers. Take care towards the end to ensure that they don’t burn.",
+      "rating":4.1
+    },
+    {
+      "id": 13,
+      "chef": "Peter Wong",
+      "chef_id": 5,
+      "recipeName": "Coq au Vin",
+      "ingredients": ["chicken thighs", "bacon", "mushrooms", "pearl onions", "red wine"],
+      "cookingMethod": "1. Cook bacon in a Dutch oven until crisp. Remove with a slotted spoon and set aside.\n2. Season chicken with salt and pepper and brown in the Dutch oven.\n3. Add mushrooms and onions and cook until softened.\n4. Pour in red wine and add bacon, thyme, and bay leaves. Cover and simmer for 1 hour.\n5. Serve hot.",
+      "rating": 4.5
+    },
+    {
+      "id": 14,
+      "chef": "Peter Wong",
+      "chef_id": 5,
+      "recipeName": "Salade Niçoise",
+      "ingredients": ["canned tuna", "hard-boiled eggs", "tomatoes", "green beans", "olives"],
+      "cookingMethod": "1. Cook green beans until tender-crisp. Drain and set aside.\n2. Arrange lettuce on plates and top with tuna, sliced eggs, tomatoes, green beans, and olives.\n3. Dress with vinaigrette and serve.",
+      "rating": 4.2
+    },
+    {
+      "id": 15,
+      "chef": "Peter Wong",
+      "chef_id": 5,
+      "recipeName": "Ratatouille",
+      "ingredients": ["eggplant", "zucchini", "red bell pepper", "onion", "garlic"],
+      "cookingMethod": "1. Preheat oven to 375°F.\n2. Slice vegetables thinly and arrange in a baking dish.\n3. Drizzle with olive oil and sprinkle with salt and pepper.\n4. Bake for 45 minutes, or until vegetables are tender.\n5. Serve hot or cold.",
+      "rating": 4.8
+    },
+    {
+      "id": 16,
+      "chef": "Sarah Johnson",
+      "chef_id": 6,
+      "recipeName": "Quiche Lorraine",
+      "ingredients": ["pie crust", "bacon", "Swiss cheese", "heavy cream", "eggs"],
+      "cookingMethod": "1. Preheat oven to 375°F.\n2. Line a pie plate with the crust.\n3. Cook bacon until crisp, then crumble and sprinkle over the crust.\n4. Top with grated Swiss cheese.\n5. Beat together cream and eggs and pour over the cheese.\n6. Bake for 35-40 minutes, or until set.",
+      "rating": 4.4
+    },
+    {
+      "id": 17,
+      "chef": "Sarah Johnson",
+      "chef_id": 6,
+      "recipeName": "Beef Bourguignon",
+      "ingredients": ["beef chuck roast", "carrots", "onion", "red wine", "beef broth"],
+      "cookingMethod": "1. Preheat oven to 325°F.\n2. Cut beef into 2-inch pieces and season with salt and pepper.\n3. Brown beef in a Dutch oven and set aside.\n4. Cook onions until softened and set aside.\n5. Deglaze the Dutch oven with red wine, scraping up any browned bits.\n6. Add beef broth, thyme, and bay leaves and bring to a simmer.\n7. Return beef and onions to the Dutch oven and bake for 2-3 hours, or until beef is tender.",
+      "rating": 4.6
+    },
+    {
+      "id": 18,
+      "chef": "Sarah Johnson",
+      "chef_id": 6,
+      "recipeName": "French Onion Soup",
+      "ingredients": ["onions", "beef broth", "French bread", "butter", "olive oil"],
+      "cookingMethod": "1.Melt the butter with the olive oil in a large heavy-based pan. Add the onions and fry with the lid on for 10 mins until soft.\n2.Sprinkle in the sugar and cook for 20 mins more, stirring frequently, until caramelised. The onions should be really golden, full of flavour and soft when pinched between your fingers. Take care towards the end to ensure that they don’t burn.\n3.Sprinkle in the sugar and cook for 20 mins more, stirring frequently, until caramelised. The onions should be really golden, full of flavour and soft when pinched between your fingers. Take care towards the end to ensure that they don’t burn.",
+      "rating":4.1
+    }
+]
+  
