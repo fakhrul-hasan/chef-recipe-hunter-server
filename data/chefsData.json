@@ -1,0 +1,50 @@
+[
+    {   
+        "id": 1,
+        "picture": "https://images.pexels.com/photos/8879370/pexels-photo-8879370.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "John Smith",
+        "experience": "10 years",
+        "num_recipes": 50,
+        "num_likes": 1000
+    },
+    {   
+        "id": 2,
+        "picture": "https://th.bing.com/th/id/OIP.y3iZacNisieIB6q-JIPPsQHaHg?w=214&h=217&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "name": "Maria Rodriguez",
+        "experience": "8 years",
+        "num_recipes": 75,
+        "num_likes": 800
+    },
+    {   
+        "id": 3,
+        "picture": "https://th.bing.com/th/id/OIP.ViNbwU5SxyHBo3LHM32D4QAAAA?w=163&h=198&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "name": "David Lee",
+        "experience": "5 years",
+        "num_recipes": 30,
+        "num_likes": 500
+    },
+    {   
+        "id": 4,
+        "picture": "https://th.bing.com/th/id/OIP.PZfw1MHTBNhY85ZPt39KXQHaKY?w=138&h=194&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "name": "Emily Chen",
+        "experience": "3 years",
+        "num_recipes": 20,
+        "num_likes": 200
+    },
+    {   
+        "id": 5,
+        "picture": "https://th.bing.com/th/id/OIP.vRF2-Om1OKUXWEetyuB6owHaE8?w=250&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "name": "Peter Wong",
+        "experience": "12 years",
+        "num_recipes": 100,
+        "num_likes": 1500
+    },
+    {   
+        "id": 6,
+        "picture": "https://th.bing.com/th/id/OIP.QApgbjvWcYx3NQaBNWAvrgHaLH?w=115&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "name": "Sarah Johnson",
+        "experience": "7 years",
+        "num_recipes": 60,
+        "num_likes": 900
+    }
+]
